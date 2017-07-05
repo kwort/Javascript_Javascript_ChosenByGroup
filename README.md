@@ -1,0 +1,7 @@
+ChosenByGroup
+=============
+
+Installation :
+
+    - yarn install
+
